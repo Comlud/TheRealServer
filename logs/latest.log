@@ -1,0 +1,136 @@
+[09:09:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:09:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:09:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:09:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:09:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:09:46] [main/INFO]: Reloading ResourceManager: Default
+[09:09:47] [Worker-Main-5/INFO]: Loaded 7 recipes
+[09:09:47] [Worker-Main-5/INFO]: Loaded 927 advancements
+[09:09:48] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[09:09:48] [Server thread/INFO]: Loading properties
+[09:09:48] [Server thread/INFO]: Default game type: SURVIVAL
+[09:09:48] [Server thread/INFO]: Generating keypair
+[09:09:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:09:48] [Server thread/INFO]: Using default channel type
+[09:09:49] [Server thread/INFO]: Preparing level "world"
+[09:09:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:09:50] [Server thread/INFO]: Preparing spawn area: 0%
+[09:09:50] [Server thread/INFO]: Preparing spawn area: 0%
+[09:09:50] [Server thread/INFO]: Preparing spawn area: 0%
+[09:09:52] [Server thread/INFO]: Time elapsed: 2493 ms
+[09:09:52] [Server thread/INFO]: Done (2.612s)! For help, type "help"
+[11:29:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5251ms or 105 ticks behind
+[11:57:30] [Server thread/INFO]: [Server] wazzzz good
+[11:57:35] [Server thread/INFO]: There are 0 of a max of 4 players online: 
+[12:26:55] [User Authenticator #1/INFO]: UUID of player Libozio is 7a79aa65-ab69-4de0-8772-7dbf630242f3
+[12:26:56] [Server thread/INFO]: Libozio[/0:0:0:0:0:0:0:1:55920] logged in with entity id 535 at (117.18758239726644, 69.0, -122.69259429177706)
+[12:26:56] [Server thread/INFO]: Libozio joined the game
+[12:27:13] [Server thread/INFO]: [Server] Libozio died in lava.
+[12:27:16] [Server thread/INFO]: Libozio lost connection: Timed out
+[12:27:16] [Server thread/INFO]: Libozio left the game
+[12:27:29] [User Authenticator #2/INFO]: UUID of player Libozio is 7a79aa65-ab69-4de0-8772-7dbf630242f3
+[12:27:29] [Server thread/INFO]: Libozio[/0:0:0:0:0:0:0:1:55923] logged in with entity id 613 at (117.18758239726644, 69.0, -122.69259429177706)
+[12:27:29] [Server thread/INFO]: Libozio joined the game
+[12:27:48] [Server thread/INFO]: [Server] Libozio died in lava.
+[12:27:53] [Server thread/INFO]: <Libozio> yes?
+[12:27:57] [Server thread/INFO]: [Server] Libozio died in lava.
+[12:27:58] [Server thread/INFO]: [Server] Libozio died in lava.
+[12:27:59] [Server thread/INFO]: [Server] Libozio died in lava.
+[12:27:59] [Server thread/INFO]: [Server] Libozio died in lava.
+[12:27:59] [Server thread/INFO]: [Server] Libozio died in lava.
+[12:28:00] [Server thread/INFO]: [Server] Libozio died in lava.
+[12:28:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/701, l='ServerLevel[world]', x=88.83, y=69.00, z=-117.83]
+[12:28:07] [Server thread/INFO]: [Server] good luck ;)
+[12:30:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/978, l='ServerLevel[world]', x=91.70, y=69.00, z=-119.95]
+[12:34:22] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2169, l='ServerLevel[world]', x=89.51, y=69.00, z=-120.02]
+[12:34:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2181, l='ServerLevel[world]', x=91.26, y=69.00, z=-119.62]
+[12:34:41] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2252, l='ServerLevel[world]', x=91.64, y=69.00, z=-121.17]
+[12:34:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2288, l='ServerLevel[world]', x=88.83, y=69.00, z=-118.64]
+[12:34:47] [Server thread/INFO]: Libozio has made the advancement [Enchanter]
+[12:35:54] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2531, l='ServerLevel[world]', x=89.22, y=69.00, z=-117.83]
+[12:35:55] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/2540, l='ServerLevel[world]', x=91.67, y=69.00, z=-119.12]
+[12:38:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3211, l='ServerLevel[world]', x=91.43, y=69.00, z=-120.03]
+[12:40:15] [Server thread/INFO]: Libozio lost connection: Timed out
+[12:40:15] [Server thread/INFO]: Libozio left the game
+[13:20:30] [Server thread/INFO]: There are 0 of a max of 4 players online: 
+[13:26:18] [User Authenticator #3/INFO]: UUID of player Libozio is 7a79aa65-ab69-4de0-8772-7dbf630242f3
+[13:26:18] [Server thread/INFO]: Libozio[/0:0:0:0:0:0:0:1:56051] logged in with entity id 3449 at (90.7299510310376, 74.0, -170.69999998807907)
+[13:26:18] [Server thread/INFO]: Libozio joined the game
+[13:26:33] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3504, l='ServerLevel[world]', x=91.72, y=69.00, z=-119.41]
+[13:27:37] [Server thread/INFO]: [Server] welcum 
+[13:27:49] [Server thread/INFO]: <Libozio> Hallelucum
+[13:28:03] [Server thread/INFO]: <Libozio> Can I call real quick?
+[13:28:06] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/3742, l='ServerLevel[world]', x=90.17, y=69.00, z=-119.12]
+[13:28:19] [Server thread/INFO]: [Server] say sure ill call u
+[13:28:43] [Server thread/INFO]: <Libozio> hehe you wrote say twice ;P
+[13:30:30] [Server thread/INFO]: Libozio lost connection: Disconnected
+[13:30:30] [Server thread/INFO]: Libozio left the game
+[13:31:14] [User Authenticator #4/INFO]: UUID of player Libozio is 7a79aa65-ab69-4de0-8772-7dbf630242f3
+[13:31:14] [Server thread/INFO]: Libozio[/0:0:0:0:0:0:0:1:56062] logged in with entity id 4127 at (92.2833054185124, 80.0, -170.7827934972353)
+[13:31:14] [Server thread/INFO]: Libozio joined the game
+[13:31:59] [Server thread/INFO]: Libozio lost connection: Disconnected
+[13:31:59] [Server thread/INFO]: Libozio left the game
+[13:32:05] [User Authenticator #5/INFO]: UUID of player Libozio is 7a79aa65-ab69-4de0-8772-7dbf630242f3
+[13:32:05] [Server thread/INFO]: Libozio[/0:0:0:0:0:0:0:1:56064] logged in with entity id 4217 at (92.63430195959958, 80.0, -169.30000001192093)
+[13:32:05] [Server thread/INFO]: Libozio joined the game
+[13:32:29] [Server thread/INFO]: Libozio lost connection: Timed out
+[13:32:29] [Server thread/INFO]: Libozio left the game
+[13:32:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6159ms or 123 ticks behind
+[13:34:53] [User Authenticator #6/INFO]: UUID of player Libozio is 7a79aa65-ab69-4de0-8772-7dbf630242f3
+[13:34:53] [Server thread/INFO]: Libozio[/0:0:0:0:0:0:0:1:56075] logged in with entity id 4259 at (92.63430195959958, 80.0, -169.30000001192093)
+[13:34:53] [Server thread/INFO]: Libozio joined the game
+[13:37:49] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4729, l='ServerLevel[world]', x=90.62, y=69.00, z=-120.67]
+[13:38:38] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/4828, l='ServerLevel[world]', x=90.48, y=69.00, z=-118.84]
+[13:43:10] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/5373, l='ServerLevel[world]', x=89.85, y=69.00, z=-120.12]
+[13:43:44] [Server thread/INFO]: Libozio lost connection: Timed out
+[13:43:44] [Server thread/INFO]: Libozio left the game
+[13:44:03] [User Authenticator #7/INFO]: UUID of player Libozio is 7a79aa65-ab69-4de0-8772-7dbf630242f3
+[13:44:03] [Server thread/INFO]: Libozio[/0:0:0:0:0:0:0:1:56102] logged in with entity id 5432 at (117.909479060374, 69.0, -122.97367760946935)
+[13:44:03] [Server thread/INFO]: Libozio joined the game
+[13:44:50] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/5536, l='ServerLevel[world]', x=91.68, y=69.00, z=-120.80]
+[13:45:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/5590, l='ServerLevel[world]', x=92.17, y=69.00, z=-119.45]
+[13:45:36] [Server thread/INFO]: Libozio lost connection: Timed out
+[13:45:36] [Server thread/INFO]: Libozio left the game
+[14:01:31] [User Authenticator #8/INFO]: UUID of player Libozio is 7a79aa65-ab69-4de0-8772-7dbf630242f3
+[14:01:32] [Server thread/INFO]: Libozio[/0:0:0:0:0:0:0:1:56132] logged in with entity id 5656 at (114.72144119383441, 72.0, -118.33340899248603)
+[14:01:32] [Server thread/INFO]: Libozio joined the game
+[14:05:03] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6237, l='ServerLevel[world]', x=92.17, y=69.00, z=-121.17]
+[14:05:29] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6318, l='ServerLevel[world]', x=89.79, y=69.00, z=-119.90]
+[14:06:13] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/6450, l='ServerLevel[world]', x=91.79, y=69.00, z=-121.17]
+[14:06:41] [Server thread/INFO]: There are 1 of a max of 4 players online: Libozio
+[14:09:25] [Server thread/INFO]: Libozio has made the advancement [Who is Cutting Onions?]
+[14:11:07] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7566, l='ServerLevel[world]', x=90.27, y=69.00, z=-119.96]
+[14:13:24] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/7844, l='ServerLevel[world]', x=89.76, y=69.00, z=-120.36]
+[14:14:51] [Server thread/INFO]: Libozio has made the advancement [Hot Stuff]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8161, l='ServerLevel[world]', x=91.51, y=69.00, z=-119.44]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8163, l='ServerLevel[world]', x=91.03, y=69.00, z=-119.95]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8164, l='ServerLevel[world]', x=91.03, y=69.00, z=-119.95]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8165, l='ServerLevel[world]', x=91.51, y=69.00, z=-119.99]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8166, l='ServerLevel[world]', x=91.51, y=69.00, z=-119.99]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8170, l='ServerLevel[world]', x=91.89, y=69.00, z=-119.45]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8172, l='ServerLevel[world]', x=92.17, y=69.00, z=-119.20]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8173, l='ServerLevel[world]', x=91.95, y=69.00, z=-120.08]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8174, l='ServerLevel[world]', x=91.95, y=69.00, z=-120.08]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8176, l='ServerLevel[world]', x=91.70, y=69.00, z=-119.12]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8180, l='ServerLevel[world]', x=92.03, y=69.00, z=-119.62]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8181, l='ServerLevel[world]', x=91.13, y=69.00, z=-119.87]
+[14:15:20] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8182, l='ServerLevel[world]', x=91.13, y=69.00, z=-119.87]
+[14:15:27] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/8252, l='ServerLevel[world]', x=92.17, y=69.00, z=-119.82]
+[14:17:59] [Server thread/INFO]: Libozio was blown up by Creeper
+[14:18:33] [Server thread/INFO]: Libozio was slain by Zombie
+[14:19:14] [Server thread/INFO]: Libozio was slain by Zombie
+[14:19:33] [Server thread/INFO]: Libozio lost connection: Timed out
+[14:19:33] [Server thread/INFO]: Libozio left the game
+[14:22:15] [Server thread/INFO]: Stopping the server
+[14:22:16] [Server thread/INFO]: Stopping server
+[14:22:16] [Server thread/INFO]: Saving players
+[14:22:16] [Server thread/INFO]: Saving worlds
+[14:22:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:22:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:22:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:22:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:22:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:22:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:22:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:22:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:22:16] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
